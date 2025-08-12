@@ -38,3 +38,7 @@ Before building visualizations, the following cleaning steps were performed in P
 - Cleaned Dataset (Sample - Superstore.csv)
 - README file (this summary)
 - 5 Screenshots : Contains Dashboards exported from Power BI (Proof)
+
+---
+
+## Author : SAKITHA MUDADLA
